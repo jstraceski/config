@@ -1,0 +1,3 @@
+[submodule "mpv"]
+	path = portable_config
+	url = git@github.com:jstraceski/config.git/mpv
