@@ -1,0 +1,629 @@
+{
+  "favorites": [
+    {
+      "stack": "item:gtceu:stone_knife_head",
+      "recipe": "jei:/tfg/rock_knapping/stone_knife_head"
+    },
+    {
+      "stack": "item:gtceu:stone_axe_head",
+      "recipe": "jei:/tfg/rock_knapping/stone_axe_head"
+    },
+    {
+      "stack": "item:tfc:stone/javelin_head/sedimentary",
+      "recipe": "jei:/tfc/rock_knapping/javelin_head_sedimentary"
+    },
+    {
+      "stack": "item:gtceu:stone_hammer_head",
+      "recipe": "jei:/tfg/rock_knapping/stone_hammer_head"
+    },
+    {
+      "stack": "item:gtceu:stone_hoe_head",
+      "recipe": "jei:/tfg/rock_knapping/stone_hoe_head"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_blowpipe",
+      "recipe": "jei:/tfc/clay_knapping/blowpipe"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_jug",
+      "recipe": "jei:/tfc/clay_knapping/jug"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_scythe_blade_mold",
+      "recipe": "jei:/tfc/clay_knapping/scythe_blade_mold"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:ceramic/unfired_flower_pot",
+        "amount": 2
+      },
+      "recipe": "jei:/tfc/clay_knapping/flower_pot"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_propick_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/propick_head_mold"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:ceramic/unfired_bowl",
+        "amount": 2
+      },
+      "recipe": "jei:/tfc/clay_knapping/bowl_2"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_javelin_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/javelin_head_mold"
+    },
+    {
+      "stack": "item:firmalife:oven_chimney",
+      "recipe": "jei:/firmalife/clay_knapping/oven_chimney"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_axe_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/axe_head_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_shovel_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/shovel_head_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_vessel",
+      "recipe": "jei:/tfc/clay_knapping/vessel"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:ceramic/unfired_ingot_mold",
+        "amount": 2
+      },
+      "recipe": "jei:/tfc/clay_knapping/ingot_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_large_vessel",
+      "recipe": "jei:/tfc/clay_knapping/large_vessel"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_pot",
+      "recipe": "jei:/tfc/clay_knapping/pot"
+    },
+    {
+      "stack": "item:firmalife:oven_top",
+      "recipe": "jei:/firmalife/clay_knapping/oven_top"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_saw_blade_mold",
+      "recipe": "jei:/tfc/clay_knapping/saw_blade_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_chisel_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/chisel_head_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_mace_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/mace_blade_mold"
+    },
+    {
+      "stack": "item:firmalife:oven_bottom",
+      "recipe": "jei:/firmalife/clay_knapping/oven_bottom"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_spindle_head",
+      "recipe": "jei:/tfc/clay_knapping/spindle_head"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_hoe_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/hoe_head_mold"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:ceramic/unfired_brick",
+        "amount": 3
+      },
+      "recipe": "jei:/tfc/clay_knapping/brick"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_pan",
+      "recipe": "jei:/tfc/clay_knapping/pan"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_bell_mold",
+      "recipe": "jei:/tfc/clay_knapping/bell_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_sword_blade_mold",
+      "recipe": "jei:/tfc/clay_knapping/sword_blade_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_pickaxe_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/pickaxe_head_mold"
+    },
+    {
+      "stack": "item:tfcchannelcasting:unfired_heart_mold",
+      "recipe": "jei:/tfcchannelcasting/clay_knapping/unfired_heart_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_knife_blade_mold",
+      "recipe": "jei:/tfc/clay_knapping/knife_blade_mold"
+    },
+    {
+      "stack": "item:tfc:ceramic/unfired_hammer_head_mold",
+      "recipe": "jei:/tfc/clay_knapping/hammer_head_mold"
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "gtceu:bronze",
+        "amount": 1000
+      },
+      "recipe": "jei:/tfc/alloy/bronze"
+    },
+    {
+      "stack": "item:firmaciv:kayak",
+      "recipe": "firmaciv:crafting/kayak"
+    },
+    {
+      "stack": "item:tfc:glue"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:wood/support/douglas_fir",
+        "amount": 8
+      },
+      "recipe": "tfc:crafting/wood/douglas_fir_support"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:ladder",
+        "amount": 3
+      },
+      "recipe": "minecraft:ladder"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:fire_bricks",
+        "amount": 2
+      },
+      "recipe": "tfc:crafting/fire_bricks"
+    },
+    {
+      "stack": "item:tfc:jute"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:wood/log/douglas_fir",
+        "amount": 4
+      }
+    }
+  ],
+  "lookup_history": [
+    "item:gtceu:lv_compressor",
+    "item:gtceu:compressed_fireclay",
+    "item:tfc:ceramic/fire_brick",
+    "item:tfc:ceramic/unfired_fire_brick",
+    "item:tfc:fire_clay",
+    "item:tfc:powder/kaolinite",
+    "item:gtceu:fireclay_dust",
+    "item:tfc:fire_bricks",
+    {
+      "type": "fluid",
+      "id": "tfg:pig_iron",
+      "amount": 144
+    },
+    "item:tfc:metal/ingot/pig_iron",
+    "item:tfc:metal/ingot/high_carbon_steel",
+    "item:gtceu:steel_ingot",
+    "item:firmalife:vat",
+    "item:tfc:ceramic/unfired_crucible",
+    "item:tfc:crucible",
+    {
+      "type": "fluid",
+      "id": "tfg:weak_red_steel",
+      "amount": 144
+    },
+    "item:tfc:metal/ingot/weak_red_steel",
+    "item:gtceu:empty_wooden_form",
+    {
+      "type": "item",
+      "id": "gtceu:brick_wooden_form",
+      "remainder": "item:gtceu:brick_wooden_form"
+    },
+    "item:gtceu:compressed_coke_clay",
+    "item:gtceu:coke_oven_brick",
+    "item:gtceu:coke_oven_bricks",
+    {
+      "type": "item",
+      "id": "tfc:raw_iron_bloom",
+      "amount": 17
+    },
+    "item:gtceu:raw_chalcocite",
+    "item:tfc:wood/chest/oak",
+    "item:tfc:wood/trapped_chest/oak",
+    "item:tfc:pumpkin",
+    "item:minecraft:bowl",
+    "item:tfc:metal/anvil/wrought_iron",
+    {
+      "type": "item",
+      "id": "gtceu:wrought_iron_plate",
+      "amount": 2
+    },
+    "item:gtceu:wrought_iron_ingot",
+    "#item:minecraft:music_discs",
+    "item:etched:blank_music_disc",
+    "item:gtceu:bronze_brick_casing",
+    "item:tfc:compost",
+    "item:firmalife:large_planter",
+    {
+      "type": "item",
+      "id": "tfc:blubber",
+      "amount": 4
+    },
+    "item:firmaciv:large_waterproof_hide",
+    "item:firmaciv:kayak",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/slate",
+      "amount": 23
+    },
+    "item:tfc:large_prepared_hide",
+    {
+      "type": "fluid",
+      "id": "tfc:tallow",
+      "amount": 100
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/claystone",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "tfc:sand/brown",
+      "amount": 4
+    },
+    "item:tfc:powder/graphite",
+    "item:minecraft:leather_leggings{Damage:0}",
+    "item:minecraft:leather_chestplate{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:leather",
+      "amount": 3
+    },
+    "item:gtceu:pure_coal_dust",
+    "item:gtceu:purified_coal_ore",
+    {
+      "type": "item",
+      "id": "gtceu:crushed_coal_ore",
+      "amount": 3
+    },
+    "item:gtceu:crushed_bauxite_ore",
+    "item:gtceu:crushed_pollucite_ore",
+    "item:tfc:wool_cloth",
+    "item:tfc:wood/planks/oak_loom",
+    {
+      "type": "item",
+      "id": "tfc:wool_yarn",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "tfc:wool",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "tfc:wood/planks/maple_slab",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "tfc:wood/planks/maple",
+      "amount": 4
+    },
+    "item:tfc:wood/planks/douglas_fir_fence",
+    "item:minecraft:bamboo_fence",
+    {
+      "type": "item",
+      "id": "tfc:food/rye",
+      "amount": 20
+    },
+    "item:tfc:metal/shears/copper{Damage:0}",
+    "item:tfc:metal/shears/bronze{Damage:0}",
+    "item:gtceu:bronze_knife_head",
+    "item:minecraft:white_bed",
+    {
+      "type": "item",
+      "id": "tfc:small_soaked_hide",
+      "amount": 3
+    },
+    "item:firmaciv:canoe_paddle",
+    "item:tfc:jute",
+    "item:tfc:jute_fiber",
+    "item:tfc:wood/log/kapok",
+    {
+      "type": "fluid",
+      "id": "tfg:latex",
+      "amount": 1000
+    },
+    "item:gtceu:sticky_resin",
+    "item:tfc:ceramic/pot",
+    "item:tfc:blast_furnace",
+    "item:gtceu:bronze_mortar{DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{Damage:0,MaxDamage:1151},HideFlags:2}",
+    "item:tfc:raw_sandstone/brown",
+    "#item:forge:tools/mortars",
+    {
+      "type": "item",
+      "id": "minecraft:brick",
+      "amount": 9
+    },
+    "item:minecraft:bricks",
+    "item:gtceu:brick_dust",
+    "item:tfchotornot:tongs/bronze{Damage:0}",
+    "item:tfchotornot:tongs/wood{Damage:246}",
+    "item:tfchotornot:tong_part/bronze",
+    {
+      "type": "item",
+      "id": "tfc:rotten_compost",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/potato",
+      "amount": 13
+    },
+    "item:tfc:composter",
+    "item:tfc:ceramic/unfired_pan",
+    "item:tfc:ceramic/unfired_large_vessel",
+    {
+      "type": "item",
+      "id": "tfc:stick_bunch",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/pumpkin_chunks",
+      "amount": 10
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/onion",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "firmalife:ice_shavings",
+      "amount": 5
+    },
+    "item:tfc:rock/loose/diorite",
+    "item:tfc:brick/diorite",
+    {
+      "type": "item",
+      "id": "minecraft:ladder",
+      "amount": 29
+    },
+    "item:tfc:stick_bundle",
+    {
+      "type": "item",
+      "id": "minecraft:stick",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "tfc:wood/support/douglas_fir",
+      "amount": 30
+    },
+    "item:tfc:medium_prepared_hide",
+    "item:tfc:medium_scraped_hide",
+    {
+      "type": "item",
+      "id": "tfc:treated_hide",
+      "amount": 2
+    },
+    "item:tfc:medium_soaked_hide",
+    {
+      "type": "item",
+      "id": "tfc:medium_raw_hide",
+      "amount": 2
+    },
+    "item:tfc:glue",
+    "item:minecraft:slime_block",
+    {
+      "type": "item",
+      "id": "tfc:wood/log/douglas_fir",
+      "amount": 12
+    },
+    "item:tfc:large_scraped_hide",
+    {
+      "type": "fluid",
+      "id": "tfc:tannin",
+      "amount": 0
+    },
+    "item:tfc:large_soaked_hide",
+    {
+      "type": "item",
+      "id": "tfc:large_raw_hide",
+      "amount": 2
+    },
+    "item:tfc:seeds/pumpkin",
+    "item:minecraft:lead",
+    "item:minecraft:shield{Damage:0}",
+    "item:gtceu:double_wrought_iron_plate",
+    "item:tfc:wrought_iron_grill",
+    {
+      "type": "fluid",
+      "id": "gtceu:zinc",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "tfc:ore/small_sphalerite",
+      "amount": 2
+    },
+    "item:tfc:ceramic/vessel{alloy:{contents:{\"tfc:copper\":71.57894736842076d,\"tfc:tin\":8.421052631578625d},maxUnits:3000,totalUnits:80},inventory:{Items:[],Size:4}}",
+    "item:tfc:bloomery",
+    "item:gtceu:double_bismuth_bronze_plate",
+    {
+      "type": "fluid",
+      "id": "gtceu:bronze",
+      "amount": 1000
+    },
+    "item:tfc:wood/planks/acacia_tool_rack",
+    "item:gtceu:crushed_copper_ore",
+    {
+      "type": "item",
+      "id": "tfc:wood/lumber/maple",
+      "amount": 11
+    },
+    "item:gtceu:copper_double_ingot",
+    "item:tfc:metal/anvil/copper",
+    "item:tfc:ceramic/unfired_sword_blade_mold",
+    "item:tfc:powder/flux",
+    "item:tfc:powder/lime",
+    {
+      "type": "fluid",
+      "id": "tfc:limewater",
+      "amount": 0
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/chalk",
+      "amount": 25
+    },
+    "#item:forge:leather",
+    "item:tfc:bellows",
+    "item:tfc:wood/barrel/hickory",
+    "item:tfc:ceramic/unfired_hammer_head_mold",
+    "item:tfc:ceramic/unfired_jug",
+    "item:gtceu:bronze_bucket",
+    "item:gtceu:bronze_ingot",
+    "item:gtceu:bronze_plate",
+    {
+      "type": "item",
+      "id": "tfc:food/rye_grain",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "tfc:ceramic/unfired_ingot_mold",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball",
+      "amount": 10
+    },
+    {
+      "type": "item",
+      "id": "tfc:plant/artists_conk",
+      "amount": 2
+    },
+    "item:tfc:seeds/carrot",
+    "item:tfc:food/carrot",
+    {
+      "type": "item",
+      "id": "firmalife:food/rye_flatbread",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/rye_dough",
+      "amount": 2
+    },
+    "item:tfc:wooden_bucket",
+    {
+      "type": "item",
+      "id": "tfc:food/rye_flour",
+      "amount": 2
+    },
+    "item:tfc:refined_iron_bloom",
+    "item:tfc:firestarter{Damage:0}",
+    "item:tfc:rock/mossy_loose/basalt",
+    "item:gtceu:stone_hoe_head",
+    "item:minecraft:rotten_flesh",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/basalt",
+      "amount": 15
+    },
+    "item:gtceu:stone_hammer_head",
+    "item:gtceu:stone_axe_head",
+    {
+      "type": "item",
+      "id": "gtceu:stone_knife_head",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "tfc:ceramic/unfired_brick",
+      "amount": 3
+    }
+  ],
+  "craft_history": [
+    "tfchotornot:crafting/tongs/wood",
+    "gtceu:shaped/hammer_bronze",
+    "gtceu:shaped/hammer_stone",
+    "gtceu:shaped/shovel_bronze",
+    "tfc:crafting/vanilla/color/white_bed",
+    "tfc:crafting/wool_yarn",
+    "tfc:crafting/firestarter",
+    "tfc:crafting/wood/stick_from_twigs",
+    "tfc:crafting/wood/douglas_fir_chest",
+    "tfc:crafting/wood/douglas_fir_tool_rack",
+    "tfc:crafting/wood/douglas_fir_support",
+    "tfc:crafting/wood/douglas_fir_lumber_planks",
+    "tfc:crafting/wood/douglas_fir_workbench",
+    "tfc:crafting/wood/douglas_fir_planks",
+    "tfc:crafting/wood/douglas_fir_lumber_log",
+    "gtceu:shaped/axe_stone",
+    "minecraft:kjs/tfc_food_pumpkin_chunks",
+    "tfc:crafting/vanilla/bowl",
+    "minecraft:ladder",
+    "tfc:crafting/dough/rye_dough_1",
+    "firmaciv:crafting/canoe_paddle",
+    "tfc:crafting/wood/douglas_fir_loom",
+    "tfc:crafting/wood/maple_slab",
+    "tfc:crafting/wood/maple_planks",
+    "tfc:crafting/wood/maple_lumber_planks",
+    "tfc:crafting/wood/douglas_fir_fence",
+    "gtceu:shaped/knife_stone",
+    "tfc:crafting/stick_from_bundle",
+    "gtceu:shaped/mortar_bronze",
+    "gtceu:shaped/mining_hammer_bronze",
+    "tfc:crafting/wood/maple_tool_rack",
+    "tfchotornot:crafting/tongs/bronze",
+    "tfc:crafting/composter",
+    "tfc:crafting/stick_bunch",
+    "firmalife:crafting/crafting/rye_sandwich_flatbread",
+    "gtceu:shaped/axe_bronze",
+    "gtceu:shaped/scythe_bronze",
+    "tfc:crafting/bellows",
+    "gtceu:shaped/hoe_stone",
+    "tfc:crafting/vanilla/ladder",
+    "gtceu:shaped/shovel_stone",
+    "tfc:crafting/stick_bundle",
+    "tfc:crafting/wood/douglas_fir_barrel",
+    "tfc:crafting/vanilla/shield",
+    "tfc:crafting/metal/anvil/copper",
+    "tfc:crafting/flux",
+    "tfc:crafting/wood/maple_barrel",
+    "tfc:crafting/wood/maple_chest",
+    "gtceu:shaped/sword_bronze",
+    "tfc:crafting/wood/sycamore_chest",
+    "tfc:crafting/wood/sycamore_lumber_log",
+    "tfc:crafting/rye_cutting",
+    "tfc:crafting/stone/javelin_igneous_extrusive"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
