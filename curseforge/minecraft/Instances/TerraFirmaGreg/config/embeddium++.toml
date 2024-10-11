@@ -36,7 +36,7 @@
 		#Sets culling mode
 		#Reduces number of visible faces when the neighbor blocks are leaves
 		#Allowed Values: ALL, OFF
-		leavesCulling = "ALL"
+		leavesCulling = "OFF"
 
 		[embeddiumplus.performance.distanceCulling]
 
@@ -152,7 +152,7 @@
 			#Configure Darkness Mode
 			#Each config changes what is considered 'true darkness'
 			#Allowed Values: TOTAL_DARKNESS, PITCH_BLACK, DARK, DIM, OFF
-			mode = "DIM"
+			mode = "PITCH_BLACK"
 			#Toggles if moon phases affects darkness in the overworld
 			affectedByMoonPhase = true
 			#Configure max moon brightness level with darkness
