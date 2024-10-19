@@ -600,6 +600,17 @@
     }
   ],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "gtceu:aluminium_dust",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "gtceu:alunite_dust",
+      "chance": 0.14
+    },
+    "item:gtceu:purified_alunite_ore",
     "item:gtceu:metal_mixture_dust",
     {
       "type": "item",
@@ -622,7 +633,6 @@
       "id": "gtceu:sapphire_dust",
       "amount": 6
     },
-    "item:gtceu:aluminium_dust",
     "item:gtceu:aluminium_ingot",
     "item:gtceu:aluminium_plate",
     "item:gtceu:mv_machine_casing",

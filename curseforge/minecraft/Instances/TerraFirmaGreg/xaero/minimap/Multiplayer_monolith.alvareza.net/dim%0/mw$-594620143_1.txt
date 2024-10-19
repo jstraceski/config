@@ -1,7 +1,24 @@
-sets:gui.xaero_default:Locations:Clear
+sets:Clear:gui.xaero_default:Locations
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Lithium:L:1915:76:-1135:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lithium:L:1902:63:-971:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Aluminum Large:A:3293:63:1139:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Large Silver:L:3663:63:1537:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:HUGE SAPHIRE:H:3268:63:2788:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Huge Silver:H:3412:63:509:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:HUGE SAPHIRE:H:5324:63:429:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tronta:T:3675:63:3931:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Large Saphire:L:3199:63:93:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire:S:3347:63:763:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Aluminum:A:3108:63:898:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire:S:3016:63:828:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire s:S:3005:63:747:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire s:S:3096:63:766:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Silver Big:S:3024:63:489:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:silver small:S:2998:63:594:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire + Emerald:S:4347:65:1145:14:false:0:gui.xaero_default:false:0:0:false
 waypoint:Lead:L:2010:1:-855:14:false:0:gui.xaero_default:false:0:0:false
 waypoint:Casiderite:C:2146:81:-1423:9:false:0:gui.xaero_default:false:0:0:false
 waypoint:Lapis:L:3997:78:-187:12:false:0:gui.xaero_default:false:0:0:false
@@ -109,6 +126,11 @@ waypoint:Casiderite:C:2189:88:-1422:11:false:0:gui.xaero_default:false:0:0:false
 waypoint:Gold:G:2179:88:-1377:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:Copper:C:1934:74:-916:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Garnerite:G:1848:64:-950:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:BIG CAVE:B:550:62:-1673:0:false:0:Clear:false:0:0:false
+waypoint:coal:C:317:62:-1523:1:false:0:Clear:false:0:0:false
+waypoint:red sand:R:-741:62:-1849:11:false:0:Clear:false:0:0:false
+waypoint:Lead:L:163:63:-1004:11:false:0:Clear:false:0:0:false
+waypoint:Claystone:C:-379:62:-1118:5:false:0:Clear:false:0:0:false
 waypoint:Amethyst / Garnet / OPal ore:A:2225:-32:-829:4:false:0:Locations:false:0:0:false
 waypoint:Slime:S:2069:-29:-872:8:false:0:Locations:false:0:0:false
 waypoint:Pitchblende, Uraninite:P:2228:-32:-804:7:false:0:Locations:false:0:0:false
@@ -126,8 +148,3 @@ waypoint:Southern Tip:S:3448:63:1522:6:false:0:Locations:false:0:0:false
 waypoint:Bay Entrance:B:2751:63:23:11:false:0:Locations:false:0:0:false
 waypoint:River Mouth:R:2041:63:-137:9:false:0:Locations:false:0:0:false
 waypoint:Home:H:1896:66:-936:3:false:0:Locations:false:0:0:false
-waypoint:BIG CAVE:B:550:62:-1673:0:false:0:Clear:false:0:0:false
-waypoint:coal:C:317:62:-1523:1:false:0:Clear:false:0:0:false
-waypoint:red sand:R:-741:62:-1849:11:false:0:Clear:false:0:0:false
-waypoint:Lead:L:163:63:-1004:11:false:0:Clear:false:0:0:false
-waypoint:Claystone:C:-379:62:-1118:5:false:0:Clear:false:0:0:false
