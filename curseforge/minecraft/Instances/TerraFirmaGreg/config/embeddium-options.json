@@ -24,10 +24,6 @@
   "notifications": {
     "force_disable_donation_prompts": false,
     "has_cleared_donation_button": false,
-<<<<<<< Updated upstream
     "has_seen_donation_prompt": true
-=======
-    "has_seen_donation_prompt": false
->>>>>>> Stashed changes
   }
 }
