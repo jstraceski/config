@@ -1,22 +1,22 @@
-[23:55:42] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
-[23:55:42] [INIT] Loaded plugins:
-[23:55:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[23:55:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[23:55:42] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[23:55:42] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[23:55:42] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
-[23:55:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[23:55:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[23:55:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[23:55:42] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[23:55:42] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[23:55:42] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[23:55:42] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
-[23:55:42] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[23:55:42] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[23:55:42] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[23:55:42] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[23:55:42] [INFO] example.js#3: TerraFirmaGreg the best modpack in the world :)
-[23:55:42] [INFO] Loaded script client_scripts:example.js in 0.001 s
-[23:55:42] [INFO] Loaded 1/1 KubeJS client scripts in 0.026 s with 0 errors and 0 warnings
-[23:55:49] [INFO] Client resource reload complete!
+[21:51:37] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[21:51:37] [INIT] Loaded plugins:
+[21:51:37] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:51:37] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[21:51:37] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[21:51:37] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[21:51:37] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[21:51:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[21:51:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[21:51:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[21:51:37] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[21:51:37] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[21:51:37] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[21:51:37] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
+[21:51:37] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[21:51:37] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[21:51:37] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[21:51:37] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:51:37] [INFO] example.js#3: TerraFirmaGreg the best modpack in the world :)
+[21:51:37] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[21:51:37] [INFO] Loaded 1/1 KubeJS client scripts in 0.022 s with 0 errors and 0 warnings
+[21:51:44] [INFO] Client resource reload complete!

@@ -593,9 +593,98 @@
         "id": "gtceu:calcium_phosphide_dust",
         "amount": 2
       }
+    },
+    {
+      "stack": "item:gtceu:mv_extruder",
+      "recipe": "gtceu:shaped/mv_extruder"
     }
   ],
   "lookup_history": [
+    "item:gtceu:metal_mixture_dust",
+    {
+      "type": "item",
+      "id": "gtceu:tiny_metal_mixture_dust",
+      "chance": 0.078
+    },
+    {
+      "type": "item",
+      "id": "tfg:slate_dust",
+      "amount": 61
+    },
+    "item:gtceu:poor_raw_sapphire",
+    {
+      "type": "item",
+      "id": "gtceu:green_sapphire_dust",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "gtceu:sapphire_dust",
+      "amount": 6
+    },
+    "item:gtceu:aluminium_dust",
+    "item:gtceu:aluminium_ingot",
+    "item:gtceu:aluminium_plate",
+    "item:gtceu:mv_machine_casing",
+    "item:gtceu:mv_machine_hull",
+    "item:gtceu:mv_extruder",
+    {
+      "type": "fluid",
+      "id": "gtceu:ethylene",
+      "amount": 144
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:polyethylene",
+      "amount": 288
+    },
+    "item:gtceu:phenolic_printed_circuit_board",
+    "item:gtceu:good_electronic_circuit",
+    "#item:gtceu:circuits/mv",
+    {
+      "type": "item",
+      "id": "gtceu:diode",
+      "amount": 4
+    },
+    "item:gtceu:mv_cutter",
+    "item:gtceu:silicon_boule",
+    "item:tfc:ceramic/ingot_mold",
+    "item:gtceu:cupronickel_quadruple_wire",
+    "item:gtceu:ilc_chip",
+    {
+      "type": "item",
+      "id": "gtceu:basic_integrated_circuit",
+      "amount": 2
+    },
+    "item:gtceu:good_integrated_circuit",
+    "item:gtceu:steel_normal_fluid_pipe",
+    {
+      "type": "item",
+      "id": "gtceu:manganese_phosphide_ingot",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "gtceu:steel_plate",
+      "amount": 3
+    },
+    "item:gtceu:cupronickel_dust",
+    {
+      "type": "item",
+      "id": "gtceu:cupronickel_ingot",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "gtceu:nickel_ingot",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "gtceu:silver_ring",
+      "amount": 2
+    },
+    "item:gtceu:aluminium_fluid_cell",
     {
       "type": "item",
       "id": "gtceu:apatite_dust",
@@ -619,7 +708,6 @@
       "id": "gtceu:manganese_phosphide",
       "amount": 144
     },
-    "item:gtceu:manganese_phosphide_ingot",
     "item:gtceu:manganese_phosphide_single_wire",
     "item:gtceu:manganese_phosphide_double_wire",
     {
@@ -828,11 +916,6 @@
       "id": "tfc:powder/sapphire",
       "amount": 4
     },
-    {
-      "type": "item",
-      "id": "gtceu:sapphire_dust",
-      "amount": 6
-    },
     "item:gtceu:lazurite_block",
     {
       "type": "item",
@@ -852,11 +935,6 @@
     },
     "item:gtceu:cobalt_brass_dust",
     "item:gtceu:cobalt_brass_plate",
-    {
-      "type": "item",
-      "id": "gtceu:aluminium_dust",
-      "amount": 2
-    },
     {
       "type": "item",
       "id": "gtceu:impure_sapphire_dust",
@@ -886,7 +964,6 @@
       "id": "gtceu:raw_sapphire",
       "amount": 3
     },
-    "item:gtceu:poor_raw_sapphire",
     "item:create:fluid_tank",
     "item:create_connected:fluid_vessel",
     "item:firmalife:irrigation_tank",
@@ -929,11 +1006,6 @@
     "item:gtceu:lv_conveyor_module",
     "item:gtceu:lapis_plate",
     "item:minecraft:lapis_block",
-    {
-      "type": "item",
-      "id": "gtceu:steel_plate",
-      "amount": 16
-    },
     {
       "type": "fluid",
       "id": "gtceu:oxygen",
@@ -1113,7 +1185,6 @@
       "id": "gtceu:blue_steel_dust",
       "amount": 4
     },
-    "item:gtceu:mv_machine_hull",
     "item:gtceu:mv_battery_buffer_4x",
     {
       "type": "item",
@@ -1142,16 +1213,6 @@
     "item:gtceu:goethite_dust",
     "item:gtceu:impure_goethite_dust",
     "item:gtceu:lv_output_bus",
-    {
-      "type": "fluid",
-      "id": "gtceu:ethylene",
-      "amount": 144
-    },
-    {
-      "type": "fluid",
-      "id": "gtceu:polyethylene",
-      "amount": 288
-    },
     "item:gtceu:lv_muffler_hatch",
     "item:gtceu:copper_octal_cable",
     "item:gtceu:mv_muffler_hatch",
@@ -1471,7 +1532,6 @@
       "id": "gtceu:garnierite_dust",
       "amount": 61
     },
-    "item:gtceu:cupronickel_ingot",
     "item:gtceu:cupronickel_plate",
     {
       "type": "fluid",
@@ -1583,12 +1643,10 @@
       "amount": 33
     },
     "item:gtceu:resin_circuit_board",
-    "item:gtceu:diode",
     "item:gtceu:lv_polarizer",
     "item:gtceu:solid_machine_casing",
     "item:gtceu:luv_machine_casing",
     "item:gtceu:hv_machine_casing",
-    "item:gtceu:mv_machine_casing",
     "item:gtceu:steam_machine_casing",
     "item:simplylight:illuminant_block_on",
     "item:simplylight:lamp_post",
@@ -1689,7 +1747,6 @@
       "amount": 64
     },
     "item:gtceu:rubber_bucket",
-    "item:gtceu:cupronickel_dust",
     "item:gtceu:tin_alloy_normal_fluid_pipe",
     "item:gtceu:tin_alloy_rod",
     "item:gtceu:tin_dust",
@@ -2629,6 +2686,10 @@
     "item:gtceu:stone_axe_head"
   ],
   "craft_history": [
+    "gtceu:shaped/electronic_circuit_mv",
+    "gtceu:shaped/good_circuit_board",
+    "gtceu:shaped/medium_steel_pipe",
+    "gtceu:shapeless/cupronickel_wire_wire_gt_single_quadrupling",
     "minecraft:kjs/tfc_food_pumpkin_chunks",
     "gtceu:shaped/large_gold_pipe",
     "gtceu:shaped/small_copper_pipe",
