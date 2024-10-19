@@ -1,0 +1,133 @@
+sets:gui.xaero_default:Locations:Clear
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Lead:L:2010:1:-855:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Casiderite:C:2146:81:-1423:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lapis:L:3997:78:-187:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lithium Mine:L:1498:-22:-956:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Silver:S:3354:61:3270:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Emerald:E:3916:87:-1630:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire:S:3916:87:-1628:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire:S:3790:89:-1595:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire:S:3556:90:-1496:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Plutonium:P:3532:74:-1419:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Aluminum:A:3348:79:-1141:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:;amethyst:;:2939:72:-1093:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:vanadium / lapis:V:2880:69:-1084:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire:S:4047:62:-93:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Copper Tin?:C:1889:62:-2679:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tronta:T:664:95:-937:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:;Lepidolite:;:674:90:-907:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tripple diamond graphite:T:902:106:-875:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Nether Quartz:N:981:112:-925:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cobalt:C:1375:112:-945:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wulf Coal :W:1389:105:-944:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lithium:L:1520:103:-963:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wulfen:W:2796:62:1899:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Saphire:S:3133:62:1685:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lapis:L:3424:62:1425:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Diamond:D:3281:62:1315:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Casiderite Tronta:C:2324:62:39:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Casiderite:C:2013:66:-391:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kaolin Path:K:3084:65:1129:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kaolin Path:K:3149:319:5725:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kaolin Path :K:3326:67:6704:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kaolin Path:K:4439:298:7194:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kaolinite:K:5126:78:7530:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Garnerite:G:3407:75:6740:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Caly:C:1993:70:-665:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gneiss and Granite:G:3894:57:-1091:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Slate:S:3697:62:-675:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Deep Underwater cave:D:2785:59:-37:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Underwater granite:U:-972:63:-447:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Redstone:R:-722:66:-372:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sphalerite:S:-128:62:-614:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Silver Sand:S:203:57:-712:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Borax:B:202:57:-712:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sugarcane:S:176:62:-716:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lepidolite:L:205:62:-720:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Salt + Redstone:S:185:62:-718:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Redstone:R:497:63:-430:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Rhyolite:R:1006:62:1402:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:;Chert:;:1339:62:1442:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Basalt:B:2083:62:1968:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Dolomite:D:2139:62:1886:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Coal:C:2205:62:1809:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:andesite:A:2535:62:1872:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Marble:M:3040:62:1753:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Schist:S:3082:65:1718:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bauxite:B:2432:83:-972:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:South 1:S:2868:~:3728:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:green beans:G:2105:68:-976:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bear:B:2617:73:-1046:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Frag:F:2612:73:-1050:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hematite:H:2287:69:-973:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sulfur:S:2140:69:-1148:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Brown Sand:B:5205:62:71:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Diamond / Graphite :D:5025:62:-1225:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bauxite:B:4313:69:-1156:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Poluclite:P:4312:67:-1157:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kyanite:K:4309:65:-1154:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Aluminum? / Kyanite:A:4309:65:-1154:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Coal:C:3773:67:-122:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Black Sand:B:3798:66:-67:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Topaz:T:3173:62:1684:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold:G:2372:62:73:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:2038:57:-1175:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:2017:63:-1158:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:2017:63:-1158:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:Horse / Ox / Boar / Cow:H:1758:103:-1131:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetra:T:1640:80:-830:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Magnetite:M:1451:74:-819:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetrahedryite:T:1635:68:-637:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Copper:C:2384:64:-853:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hematite:H:2462:63:-783:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hematite:H:2224:66:-821:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bismuth:B:2214:66:-800:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sphalerite:S:2083:69:-695:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sphalerite:S:1965:76:-813:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Copper:C:1868:80:-1023:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetrahedryite:T:1645:77:-890:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetrahedryite:T:1554:64:-742:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:llama:L:1376:84:-630:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:tetrahedryite:T:1501:79:-589:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Magnetite:M:1431:83:-570:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:gold:G:2312:63:-818:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bismuthine:B:1697:71:-231:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Magnetite:M:2012:68:-461:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:tetrahedrite:T:1855:71:-701:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Chalk:C:2559:66:-775:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:sphalerite:S:906:73:-674:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:volcano:V:1170:100:-660:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:hot spring:H:1384:103:-942:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:pumpkin:P:1482:91:-955:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold:G:1753:78:-962:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bismuth:B:2094:81:-1447:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Casiderite:C:2104:79:-1434:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Casiderite:C:2189:88:-1422:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold:G:2179:88:-1377:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Copper:C:1934:74:-916:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Garnerite:G:1848:64:-950:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Amethyst / Garnet / OPal ore:A:2225:-32:-829:4:false:0:Locations:false:0:0:false
+waypoint:Slime:S:2069:-29:-872:8:false:0:Locations:false:0:0:false
+waypoint:Pitchblende, Uraninite:P:2228:-32:-804:7:false:0:Locations:false:0:0:false
+waypoint:Neodimyum:N:1946:-3:-987:1:false:0:Locations:false:0:0:false
+waypoint:horse:H:3317:82:7340:12:false:0:Locations:false:0:0:false
+waypoint:redstone:R:3243:64:7150:13:false:0:Locations:false:0:0:false
+waypoint:diamon:D:4968:62:6541:1:false:0:Locations:false:0:0:false
+waypoint:Left here for graphite:L:4120:63:-522:14:false:0:Locations:false:0:0:false
+waypoint:Keep right here for graphite:R:4080:74:-707:9:false:0:Locations:false:0:0:false
+waypoint:Graphite Entrance:G:3912:63:-55:6:false:0:Locations:false:0:0:false
+waypoint:Kaolin deposit:K:5138:89:7555:5:false:0:Locations:false:0:0:false
+waypoint:Boat:B:3048:63:6976:13:false:0:Locations:false:0:0:false
+waypoint:Open Ocean:O:3252:63:2782:13:false:0:Locations:false:0:0:false
+waypoint:Southern Tip:S:3448:63:1522:6:false:0:Locations:false:0:0:false
+waypoint:Bay Entrance:B:2751:63:23:11:false:0:Locations:false:0:0:false
+waypoint:River Mouth:R:2041:63:-137:9:false:0:Locations:false:0:0:false
+waypoint:Home:H:1896:66:-936:3:false:0:Locations:false:0:0:false
+waypoint:BIG CAVE:B:550:62:-1673:0:false:0:Clear:false:0:0:false
+waypoint:coal:C:317:62:-1523:1:false:0:Clear:false:0:0:false
+waypoint:red sand:R:-741:62:-1849:11:false:0:Clear:false:0:0:false
+waypoint:Lead:L:163:63:-1004:11:false:0:Clear:false:0:0:false
+waypoint:Claystone:C:-379:62:-1118:5:false:0:Clear:false:0:0:false
