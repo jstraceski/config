@@ -1,0 +1,13 @@
+
+logs/**
+crash-reports/**
+resourcepacks*/**
+saves
+backups
+mods
+tfgconf/*/
+!tfgconf/config
+kubejs/*/
+!kubejs/config
+**/cache*/**
+XaeroWaypoints_BACKUP*/**
