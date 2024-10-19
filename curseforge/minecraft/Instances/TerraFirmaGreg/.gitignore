@@ -1,4 +1,8 @@
 
+/*.html
+screenshots
+.mixin.*
+/*.zip
 logs/**
 crash-reports/**
 resourcepacks*/**
