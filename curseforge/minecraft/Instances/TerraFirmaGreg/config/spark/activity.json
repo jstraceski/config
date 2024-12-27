@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "JavaJoe",
+      "uniqueId": "2fc0b381-73b8-426b-960f-c1a589b261a3"
+    },
+    "time": 1734137998712,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/d2gHvrDxcD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "JavaJoe",
+      "uniqueId": "2fc0b381-73b8-426b-960f-c1a589b261a3"
+    },
+    "time": 1734137477877,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Kc7f8IOBFz"
+    }
+  }
+]

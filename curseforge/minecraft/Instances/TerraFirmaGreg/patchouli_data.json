@@ -43,7 +43,12 @@
         "tfc:firmalife/greenhouse",
         "tfc:firmalife/more_fertilizer",
         "tfc:firmalife/planters",
-        "tfc:mechanics/pumps"
+        "tfc:mechanics/pumps",
+        "tfc:firmaciv/navigation",
+        "tfc:firmalife/fruit_trees",
+        "tfc:getting_started/a_place_to_sleep",
+        "tfc:mechanics/aqueducts",
+        "tfc:mechanics/animal_husbandry"
       ],
       "bookmarks": [],
       "completedManualQuests": []

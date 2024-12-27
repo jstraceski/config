@@ -1,7 +1,24 @@
-sets:Clear:gui.xaero_default:Locations
+sets:gui.xaero_default:Clear:Locations
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Plutonium / Naquadah:P:1833:64:-704:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:tANTALITE:T:2503:63:-578:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tantalite:T:3277:62:296:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:duck:D:2424:90:-1474:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cow:C:2243:88:-1442:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:boar:B:2374:91:-1502:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cow:C:2234:87:-1377:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Donkey:D:2165:87:-1298:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Aluminum:A:665:74:-474:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:1641:96:-895:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:1640:174:-896:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:Aluminum mine:A:3290:64:1161:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Plutonium / Naquadah:P:1833:64:-704:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Chromite:C:3288:62:1194:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:vanadium magnetite:M:1830:57:-773:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:diamond coal graphite:D:1652:109:339:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Salt:S:1623:104:307:11:false:0:gui.xaero_default:false:0:0:false
 waypoint:Lithium:L:1915:76:-1135:5:false:0:gui.xaero_default:false:0:0:false
 waypoint:Lithium:L:1902:63:-971:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:Aluminum Large:A:3293:63:1139:14:false:0:gui.xaero_default:false:0:0:false
@@ -92,8 +109,6 @@ waypoint:Black Sand:B:3798:66:-67:14:false:0:gui.xaero_default:false:0:0:false
 waypoint:Topaz:T:3173:62:1684:3:false:0:gui.xaero_default:false:0:0:false
 waypoint:Gold:G:2372:62:73:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:gui.xaero_deathpoint_old:D:2038:57:-1175:0:false:2:gui.xaero_default:false:0:1:true
-waypoint:gui.xaero_deathpoint_old:D:2017:63:-1158:0:false:2:gui.xaero_default:false:0:1:true
-waypoint:gui.xaero_deathpoint_old:D:2017:63:-1158:0:false:2:gui.xaero_default:false:0:1:true
 waypoint:Horse / Ox / Boar / Cow:H:1758:103:-1131:10:false:0:gui.xaero_default:false:0:0:false
 waypoint:Tetra:T:1640:80:-830:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:Magnetite:M:1451:74:-819:11:false:0:gui.xaero_default:false:0:0:false

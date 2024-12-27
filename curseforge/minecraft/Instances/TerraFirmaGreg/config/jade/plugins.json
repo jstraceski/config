@@ -170,9 +170,6 @@
   "corpse": {
     "corpse": true
   },
-  "tfc_support_indicator": {
-    "support_indicator": true
-  },
   "treetap": {
     "tap": true
   }
